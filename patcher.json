@@ -1,0 +1,16 @@
+{
+  "changes": [
+    {
+      "target": "./AAA/PRO/STDWTITL.PRO",
+      "patch": "UEFUQ0gAPEAAAgAFRU9G"
+    },
+    {
+      "target": "./AAA/PRO/STPLNMET.PRO",
+      "patch": "UEFUQ0gAVcgAAQBFT0Y="
+    },
+    {
+      "target": "./AAA/PRO/WSTAG200.PRO",
+      "patch": "UEFUQ0gAAEAAAQBFT0Y="
+    }
+  ]
+}
